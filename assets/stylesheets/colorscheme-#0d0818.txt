@@ -1,0 +1,7 @@
+$color1: #b392db; primer div
+$color2: #31153f; navbar/ footer
+$color3: #0d0818; h segundo div
+$color4: #11091c; p segundo div
+$color5: #7249c2; segundo div/ texto footer
+font-family: 'Amatic SC', cursive;
+font-family: 'Cormorant Garamond', serif;
